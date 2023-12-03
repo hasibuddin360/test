@@ -1,0 +1,20 @@
+body {
+     margin: 0;
+     font-family: 'Nova Square', sans-serif;}
+h1{ font-size: 50;}
+.No1{color:purple;
+     font-family: 'Nova Square', sans-serif;
+      }
+.half-width{
+     width: 40%;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ .half-width  img{
+      width: 100%;
+
+ }
+.top-benner{
+    background-image: url(imags/web_development.png);
+    background-repeat: no-repeat;
+}
